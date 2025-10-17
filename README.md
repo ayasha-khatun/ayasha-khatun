@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner]([https://via.placeholder.com/1200x300?text=Ayasha+Khatun+Portfoli](https://i.ibb.co.com/v4gXgXnq/p4.png))
+![Banner](https://i.ibb.co.com/v4gXgXnq/p4.png)
 
 # Hi, I'm Ayasha Khatun 👋
 **Frontend Developer | Passionate about crafting responsive and user-centric web applications**
