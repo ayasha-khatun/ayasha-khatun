@@ -45,7 +45,7 @@ I'm a passionate front-end developer with experience in **HTML, CSS, JavaScript,
 
 [![GitHub](https://github.com/ayasha-khatun)
 [![LinkedIn](https://www.linkedin.com/in/miss-ayasha-khatun-865381370)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://thriving-crepe-8a4ada.netlify.app/)
 
 
 ---
