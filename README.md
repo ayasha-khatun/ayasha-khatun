@@ -44,24 +44,6 @@ I'm a passionate front-end developer with experience in **HTML, CSS, JavaScript,
 
 ---
 
-## 💻 Pinned Projects
-Check out some of my featured projects:
 
-1. **Vocabulary Learning App**  
-   A web app to enhance English vocabulary using interactive cards.  
-   [GitHub Repo](#)
 
-2. **React Bidding Platform**  
-   An auction-style React app with dynamic bidding features.  
-   [GitHub Repo](#)
-
-3. **Marathon Management System**  
-   Full-stack MERN app to manage marathon events, registrations, and dashboards.  
-   [GitHub Repo](#)
-
----
-
-## 📈 GitHub Stats
-![Ayasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
