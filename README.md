@@ -1,5 +1,3 @@
-<!-- Banner Image -->
-![Banner](https://i.ibb.co.com/v4gXgXnq/p4.png)
 
 # Hi, I'm Ayasha Khatun 👋
 **Frontend Developer | Passionate about crafting responsive and user-centric web applications**
