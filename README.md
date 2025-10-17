@@ -41,11 +41,9 @@ I'm a passionate front-end developer with experience in **HTML, CSS, JavaScript,
 ## 📫 Contact Me
 - Email: ayashakhatun004@gmail.com 
 - Phone: +8801604532776
-- ### Connect with Me
 
-[![GitHub](https://github.com/ayasha-khatun)
-[![LinkedIn](https://www.linkedin.com/in/miss-ayasha-khatun-865381370)
-[![Portfolio](https://thriving-crepe-8a4ada.netlify.app/)
+
+
 
 
 ---
